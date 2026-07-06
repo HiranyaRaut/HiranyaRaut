@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋, I'm Hiranya Raut
+Hi there, I'm Hiranya Raut👋
 </h1>
 
 <h3 align="center">
@@ -20,9 +20,7 @@ Software Engineer • Java Developer • AI Enthusiast
 
 ## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
