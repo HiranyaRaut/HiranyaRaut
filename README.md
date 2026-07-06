@@ -1,89 +1,198 @@
-<h1 align="center">
-Hi there, I'm Hiranya Raut👋
-</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer • Java Developer • AI Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=HIRANYA%20RAUT&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
+# Hi there, I'm Hiranya Raut 👋
 
+### 💻 Software Engineer • Java Developer • AI Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;Azure+Certified;Backend+Developer;Full+Stack+Developer;AI+Enthusiast"/>
+
+<p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=HiranyaRaut&style=for-the-badge&color=blue"/>
+
+</p>
+
+</div>
 
 ---
-## 🚀 About Me
 
-- 🎓 B.Tech CSE Student
-- 💻 Passionate about Java & Spring Boot
+# 🚀 About Me
+
+- 🎓 B.Tech Computer Science & Engineering Student
+- 💻 Passionate about Java, Spring Boot & Backend Development
 - ☁ Microsoft Azure Certified
 - 📚 Solving LeetCode Daily
-- 🤖 Interested in AI & Backend Development
-- 🌱 Currently learning System Design
-
-## 🛠 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)  ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)  ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=HiranyaRaut&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HiranyaRaut&layout=compact&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=HiranyaRaut&theme=tokyonight)
-
-
-## 🚀 Featured Projects
-
-### 🌾 CropOrbit AI
-
-AI-powered crop disease detection using satellite imagery.
-
-**Core Idea:** Develop a sensor-free smart farming solution that analyzes satellite data to identify crop types, assess crop health, detect moisture stress, and generate intelligent irrigation recommendations.
-
-**Architecture:** Satellite Data (Sentinel-1, Sentinel-2, MODIS, Bhuvan) → Data Processing & Feature Extraction → AI Models (XGBoost, Random Forest, LSTM) → Decision Engine → Interactive Dashboard.
-
-**Focus Areas:** Crop Identification & Health Monitoring, Soil Moisture & Water Stress Detection, AI-Powered Irrigation Advisory, Geospatial Analytics & Precision Agriculture
-
-**Goals:** Achieve high-accuracy crop and irrigation predictions (>85%). Optimize water usage and improve agricultural productivity. Enable scalable, cost-effective, and sustainable precision farming for farmers.
-
-### 💰 Spendix
-
-Personal Finance Tracker built using Spring Boot.
-
-**Core Idea:** Empower users to make smarter financial decisions by combining expense tracking with goal-based planning, Joy Score analysis, and mindful spending insights.
-
-**Architecture:** React.js, Vite, Tailwind CSS, Chart.js, Spring Boot, Spring Security, JWT, REST APIs, MySQL, Authentication, Income & Expense Management, Joy Goals, Joy Score, Mindful Pause, Dashboard & Analytics
-
-**Focus Area:** Behavior-driven personal finance, goal-oriented money management, financial wellness, and intelligent spending analytics.
-
-**Goals:** Promote mindful and goal-based spending. Help users track financial progress effectively. Provide meaningful insights through Joy Scores and analytics. Deliver a secure, scalable, and user-friendly finance management platform.
-
-
-### 🛡 Aegis
-
-Human-aware race strategy simulator.
+- 🤖 Interested in Artificial Intelligence & Cloud Computing
+- 🌱 Currently learning System Design & Scalable Architectures
 
 ---
 
+# 🛠 Tech Stack
 
-## 🏅 Certifications
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)  ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 
-- Azure AZ-104
-- Azure AI-900
-- Azure DP-900
-- Azure SC-900
-- Azure PL-900
-- Azure AZ-900
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)  ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity)  ![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge)
 
-## 👀 Visitors
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-![](https://komarev.com/ghpvc/?username=HiranyaRaut&color=blue)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📊 GitHub Statistics
 
-"Code. Learn. Build. Repeat."
+<div align="center">
 
+![](https://github-readme-stats.vercel.app/api?username=HiranyaRaut&show_icons=true&theme=tokyonight&hide_border=true)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=HiranyaRaut&theme=tokyonight&hide_border=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HiranyaRaut&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌾 CropOrbit AI
+
+### 📌 Description
+
+AI-powered crop monitoring platform using satellite imagery and machine learning to support precision agriculture.
+
+**Core Idea**
+
+Develop a sensor-free smart farming solution that analyzes satellite imagery to identify crop types, assess crop health, detect moisture stress, and generate intelligent irrigation recommendations.
+
+**Architecture**
+
+CropOrbit AI follows a layered architecture where satellite imagery from Sentinel-1, Sentinel-2, MODIS, and ISRO Bhuvan is collected, preprocessed, and analyzed using AI/ML models to generate crop health, moisture, and irrigation insights, which are then presented through an interactive web dashboard.
+
+**Focus Areas**
+
+- Crop Identification
+- Crop Health Monitoring
+- Soil Moisture Analysis
+- Irrigation Advisory
+- Precision Agriculture
+
+**Goals**
+
+- Achieve >85% prediction accuracy
+- Improve water efficiency
+- Enable scalable precision farming
+- Support sustainable agriculture
+
+---
+
+## 💰 Spendix
+
+### 📌 Description
+
+A full-stack personal finance management platform designed to promote mindful spending and financial wellness.
+
+**Core Idea**
+
+Empower users to manage finances through expense tracking, goal-based planning, Joy Score analysis, and spending insights.
+
+**Architecture**
+
+Spendix follows a full-stack client-server architecture where the React.js frontend communicates with a Spring Boot backend through secure REST APIs, using Spring Security with JWT for authentication and MySQL for persistent storage of users, transactions, goals, and analytics.
+
+**Features**
+
+- Income Management
+- Expense Tracking
+- Joy Goals
+- Joy Score
+- Mindful Pause
+- Dashboard Analytics
+- Secure Authentication
+
+**Focus Area**
+
+Behavior-driven finance, financial wellness, intelligent budgeting, and analytics.
+
+**Goals**
+
+- Encourage mindful spending
+- Track financial goals
+- Provide personalized insights
+- Deliver a secure finance platform
+
+---
+
+## 🛡 Aegis
+
+Human-aware race strategy simulator focused on intelligent decision-making, predictive analytics, and adaptive racing strategies.
+
+---
+
+# 🏅 Microsoft Certifications
+
+- ✅ Azure Administrator Associate (AZ-104)
+- ✅ Azure Fundamentals (AZ-900)
+- ✅ Azure AI Fundamentals (AI-900)
+- ✅ Azure Data Fundamentals (DP-900)
+- ✅ Azure Security, Compliance & Identity (SC-900)
+- ✅ Power Platform Fundamentals (PL-900)
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HiranyaRaut&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/HiranyaRaut">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### 💡 *"Code • Learn • Build • Repeat"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=150&section=footer"/>
+
+</div>
