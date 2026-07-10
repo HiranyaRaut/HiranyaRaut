@@ -140,6 +140,30 @@ Behavior-driven finance, financial wellness, intelligent budgeting, and analytic
 
 Human-aware race strategy simulator focused on intelligent decision-making, predictive analytics, and adaptive racing strategies.
 
+**Core Idea**
+
+A human-aware F1 race strategy optimizer that models both vehicle physics and driver cognitive limitations (fatigue/stress) to calculate real-time pit and pace strategy using Monte Carlo Tree Search (MCTS).
+
+**Architecture**
+
+Decoupled stack with a **FastAPI** backend (WebSocket telemetry streaming, SQLite database, physics & MCTS engines) and a **Next.js 15** frontend (Zustand state, Recharts, SVG/Canvas track GPS map), deployed via **Docker**.
+
+**Features**
+
+- Real-time 4-corner tire, fuel, and telemetry physics simulation.
+- Human Driver Model (HDM) predicting fatigue and mistake probabilities (HRP).
+- MCTS engine for dynamic pit window and tire compound recommendation.
+- Web Speech-integrated AI Race Engineer Voice Assistant.
+-Tamper-proof SHA-256 telemetry auditing ledger.
+
+**Focus Area**
+
+Human-centric strategy modeling and low-latency real-time telemetry streaming under volatile race/weather conditions.
+
+** Goals**
+
+Maximize race pace, minimize driver error rates under fatigue, and provide secure, auditable post-run data.
+
 ---
 
 # 🏅 Microsoft Certifications
