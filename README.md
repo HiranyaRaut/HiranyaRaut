@@ -166,14 +166,15 @@ Maximize race pace, minimize driver error rates under fatigue, and provide secur
 
 ---
 
-# 🏅 Microsoft Certifications
+# 🏅 Microsoft Azure Certifications
 
-- ✅ Azure Administrator Associate (AZ-104)
-- ✅ Azure Fundamentals (AZ-900)
-- ✅ Azure AI Fundamentals (AI-900)
-- ✅ Azure Data Fundamentals (DP-900)
-- ✅ Azure Security, Compliance & Identity (SC-900)
-- ✅ Power Platform Fundamentals (PL-900)
+| Certification | Level | Status |
+|---------------|-------|--------|
+| 🏅 AZ-104 — Azure Administrator Associate | Associate | ✅ Certified |
+| 🏅 AZ-900 — Azure Fundamentals | Fundamentals | ✅ Certified |
+| 🏅 AI-900 — Azure AI Fundamentals | Fundamentals | ✅ Certified |
+| 🏅 DP-900 — Azure Data Fundamentals | Fundamentals | ✅ Certified |
+| 🏅 SC-900 — Azure Security, Compliance, and Identity Fundamentals | Fundamentals | ✅ Certified |
 
 ---
 
